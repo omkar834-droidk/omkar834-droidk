@@ -5,59 +5,51 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 🧠 About Me
 
-🎓 B.Sc. Computer Science
+    🎓 B.Sc. Computer Science
 
-🔬 Passionate about Data Science & Machine Learning
+    🔬 Data Science & Machine Learning Enthusiast
 
-🤖 Exploring Generative AI & Agentic AI Systems
+    🤖 Exploring Generative AI & Agentic AI Systems
 
-⚙️ Focused on Production-Ready ML Workflows & MLOps
+    ⚙️ Focused on Production-Ready ML Workflows & MLOps
 
-📊 Turning Data into Intelligent Decision Systems
+    📊 Turning Data into Intelligent Decision Systems
 
-I believe AI should not just predict — it should reason, automate, and scale.
+AI should not just predict — it should reason, automate, and scale.
 
-🛠 Core Areas
+🛠 Core Expertise
 
-Data Science & Machine Learning
+    🔹 Data Science
+    🔹 Machine Learning
+    🔹 Generative AI
+    🔹 Agentic AI Workflows
+    🔹 MLOps & Model Deployment
+    🔹 End-to-End ML Pipelines
+    🔹 Feature Engineering & Optimization
 
-Generative AI Systems
+🚀 Currently Building
 
-Agentic AI Workflows
+    ✔ Production-Grade ML Applications
+    ✔ Scalable AI Pipelines
+    ✔ Intelligent Automation Systems
+    ✔ Real-World AI Deployment Projects
 
-MLOps & Model Deployment
+📈 Vision
 
-End-to-End ML Pipelines
+    Build Scalable AI Architectures
 
-Feature Engineering & Optimization
+    Engineer Autonomous AI Systems
 
-🚀 What I’m Currently Building
+    Deliver Impactful AI-Driven Solutions
 
-Production-Grade ML Applications
-
-Scalable AI Pipelines
-
-Intelligent Automation Systems
-
-Real-World AI Deployment Projects
-
-📈 Goals
-
-Build Scalable AI Architectures
-
-Master Advanced ML Optimization
-
-Work on Impactful AI-Driven Products
-
-Contribute to Intelligent Systems Research
+    Continuously Improve & Optimize
 
 📫 Let’s Connect
 
-💼 Open to Internships & Collaboration
+    💼 Open to Internships & Collaboration
+    📬 Open to AI & System Design Discussions
 
-📬 Always Open to AI Discussions
+⚡ Engineering Philosophy
 
-⚡ Philosophy
-
-Build. Optimize. Deploy. Repeat.
-Intelligence is engineered — not accidental.
+    Build. Optimize. Deploy. Repeat.
+    Intelligence is engineered — not accidental.
