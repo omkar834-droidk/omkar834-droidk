@@ -9,11 +9,11 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 🔬 Passionate about Data Science & Machine Learning
 
-🤖 Exploring Generative AI & Agentic AI systems
+🤖 Exploring Generative AI & Agentic AI Systems
 
-⚙️ Focused on production-ready ML workflows & MLOps
+⚙️ Focused on Production-Ready ML Workflows & MLOps
 
-📊 Turning data into intelligent decision systems
+📊 Turning Data into Intelligent Decision Systems
 
 I believe AI should not just predict — it should reason, automate, and scale.
 
@@ -33,29 +33,29 @@ Feature Engineering & Optimization
 
 🚀 What I’m Currently Building
 
-Production-grade ML applications
+Production-Grade ML Applications
 
-Scalable AI pipelines
+Scalable AI Pipelines
 
-Intelligent automation systems
+Intelligent Automation Systems
 
-Real-world AI deployment projects
+Real-World AI Deployment Projects
 
 📈 Goals
 
-Build scalable AI architectures
+Build Scalable AI Architectures
 
-Master advanced ML optimization
+Master Advanced ML Optimization
 
-Work on impactful AI-driven products
+Work on Impactful AI-Driven Products
 
-Contribute to intelligent systems research
+Contribute to Intelligent Systems Research
 
 📫 Let’s Connect
 
-💼 Open to internships & collaboration
+💼 Open to Internships & Collaboration
 
-📬 Always open to AI discussions
+📬 Always Open to AI Discussions
 
 ⚡ Philosophy
 
