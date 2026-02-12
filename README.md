@@ -15,7 +15,7 @@ AI Systems Builder | Data Science | GenAI | Agentic AI | MLOps
 
     📊 Turning Data into Intelligent Decision Systems
 
-**AI should not just predict — it should reason, automate, and scale.***
+**AI should not just predict — it should reason, automate, and scale .**
 
 🛠 Core Expertise
 
