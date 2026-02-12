@@ -1,11 +1,4 @@
-
-<!--
-**omkar834-droidk/omkar834-droidk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...🚀 Omkar Salunke
+🚀 Omkar Salunke
 AI Systems Builder | Data Science | GenAI | Agentic AI | MLOps
 
 Designing intelligent, scalable AI systems from data to deployment.
@@ -68,10 +61,3 @@ Contribute to intelligent systems research
 
 Build. Optimize. Deploy. Repeat.
 Intelligence is engineered — not accidental.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
