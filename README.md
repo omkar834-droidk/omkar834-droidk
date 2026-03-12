@@ -2,9 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Omkar%20Salunke&fontSize=45&fontColor=00F7FF"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Scientist;Machine+Learning+Engineer;Generative+AI+Developer;MLOps+Engineer"/>
-</p>
+
+
 
 
 
