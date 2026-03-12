@@ -12,23 +12,31 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 # 🚀 About Me
 
+<p align="center">
+
 🎓 **B.Sc Computer Science Student**  
 🤖 **Data Science & Machine Learning Enthusiast**  
 🧠 **Exploring Generative AI & Agentic AI Systems**  
 ⚙️ **Focused on Production-Ready ML Workflows & MLOps**  
 📊 **Turning Data into Intelligent Decision Systems**  
-💡 **Goal:** Build scalable AI systems that solve real-world problems
+💡 **Goal:** Build scalable AI systems that solve real-world problems  
+
+</p>
 
 ---
 
 # 🧠 Core Expertise
 
-🔹 Data Science  
-🔹 Machine Learning  
-🔹 Deep Learning  
-🔹 Generative AI  
-🔹 Agentic AI Workflows  
-🔹 MLOps & Model Deployment  
+<p align="center">
+
+![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-green?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-red?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-black?style=for-the-badge)
+
+</p>
 
 ---
 
