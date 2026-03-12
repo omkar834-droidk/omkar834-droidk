@@ -31,8 +31,6 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 <td width="40%">
 
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="250"/>
-
 </td>
 </tr>
 </table>
