@@ -124,6 +124,16 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 ---
 
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=omkar834-droidk&theme=algolia&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
 # 📈 GitHub Activity
 
 <p align="center">
