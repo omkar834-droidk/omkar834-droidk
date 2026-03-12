@@ -19,11 +19,6 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=omkar834-droidk&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
-
----
 # 🚀 About Me
 
 <table>
@@ -124,15 +119,6 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=omkar834-droidk&theme=algolia&no-frame=true&margin-w=10"/>
-
-</p>
-
----
 
 # 📈 GitHub Activity
 
@@ -144,13 +130,7 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</p>
 
 ---
 
