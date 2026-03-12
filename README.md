@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omkar Salunke</h1>
-<h3 align="center">AI Systems Builder | Machine Learning | Generative AI | MLOps</h3>
+
+<p align="center">
+AI Systems Builder | Machine Learning | Generative AI | MLOps
+</p>
 
 <p align="center">
 Designing intelligent, scalable AI systems from data to deployment.
@@ -9,15 +12,17 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 # 🚀 About Me
 
-🎓 B.Sc Computer Science Student  
+🎓 **B.Sc Computer Science Student**
 
-🤖 Data Science & Machine Learning Enthusiast  
+🤖 **Data Science & Machine Learning Enthusiast**
 
-🧠 Exploring Generative AI & Agentic AI Systems  
+🧠 **Currently exploring Generative AI & Agentic AI systems**
 
-⚙️ Focused on Production-Ready ML Workflows & MLOps  
+⚙️ **Focused on production-ready ML workflows and MLOps**
 
-📊 Turning data into intelligent decision systems  
+📊 **Passionate about transforming data into intelligent decision systems**
+
+💡 **Goal:** Build scalable AI systems that automate real-world problems
 
 ---
 
@@ -31,43 +36,38 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 ---
 
-# ⚙️ Tech Stack
+# 🚀 Featured Projects
 
-### Languages
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+## 🎬 Netflix Recommendation System
+Machine learning recommendation engine using **NLP and cosine similarity** to recommend movies based on content similarity.
 
-### Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge&logo=scikitlearn)
-![XGBoost](https://img.shields.io/badge/XGBoost-darkgreen?style=for-the-badge)
+## 📦 Smart Delivery Prediction
+Random Forest machine learning model predicting **delivery time based on logistics and distance features**.
 
-### Data Science
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+## 🚦 Delhi Traffic Prediction
+XGBoost machine learning model designed to **predict urban traffic patterns and congestion levels**.
 
-### Tools
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+## 📊 Exam Score Prediction App
+Machine learning model predicting **student performance using study habits and academic features**.
+
+## ❤️ Heart Disease Prediction
+Classification model predicting **heart disease risk using health indicators and medical data**.
 
 ---
 
-# 🚀 Featured Projects
+# ⚙️ Tech Stack
 
-### 🤖 Netflix Recommendation System
-Machine Learning project using NLP and cosine similarity to recommend movies.
+### Programming
+Python • SQL
 
-### 📦 Smart Delivery Prediction
-Random Forest model predicting delivery time based on logistics features.
+### Machine Learning
+Scikit-learn • TensorFlow • XGBoost
 
-### 🚦 Delhi Traffic Prediction
-Machine Learning model using XGBoost to predict traffic patterns.
+### Data Science
+Pandas • NumPy • Matplotlib
 
-### 📊 Exam Score Prediction App
-ML model predicting student scores based on study factors.
-
-### 🫀 Heart Disease Prediction
-ML classification model predicting heart disease risk using health data.
+### Tools
+Streamlit • Git • Jupyter Notebook
 
 ---
 
@@ -85,7 +85,7 @@ ML classification model predicting heart disease risk using health data.
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkar834-droidk&theme=tokyonight)
 
@@ -93,12 +93,13 @@ ML classification model predicting heart disease risk using health data.
 
 # 🌐 Connect With Me
 
-📧 Email: salunkeomkar834@gmail.com  
+📧 **Email:** salunkeomkar834@gmail.com  
 
-💼 LinkedIn: ADD-YOUR-LINKEDIN-HERE  
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/omkar-salunke-712696351
 
-📍 Pune, India
+📍 **Location:** Pune, India
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ If you like my work, consider giving a star ⭐ to my repositories!
