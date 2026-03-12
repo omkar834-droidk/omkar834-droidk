@@ -9,19 +9,36 @@ Designing intelligent, scalable AI systems from data to deployment.
 </p>
 
 ---
-
 # 🚀 About Me
 
-<p align="center">
+<table>
+<tr>
+<td width="60%">
 
-🎓 **B.Sc Computer Science Student**  
-🤖 **Data Science & Machine Learning Enthusiast**  
-🧠 **Exploring Generative AI & Agentic AI Systems**  
-⚙️ **Focused on Production-Ready ML Workflows & MLOps**  
-📊 **Turning Data into Intelligent Decision Systems**  
-💡 **Goal:** Build scalable AI systems that solve real-world problems  
+🎓 **B.Sc Computer Science Student**
 
-</p>
+🤖 **Data Science & Machine Learning Enthusiast**
+
+🧠 **Exploring Generative AI & Agentic AI Systems**
+
+⚙️ **Focused on Production-Ready ML Workflows & MLOps**
+
+📊 **Turning Data into Intelligent Decision Systems**
+
+💡 **Goal:** Build scalable AI systems that solve real-world problems
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+
+
+
 
 ---
 
