@@ -60,15 +60,9 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 # ⚙️ Tech Stack
 
-## 👨‍💻 Programming
-
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
-
----
-
-## 🤖 Machine Learning Algorithms
-
+![Machine Learning](https://img.shields.io/badge/KNN-green?style=for-the-badge)
 ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-blue?style=for-the-badge)
 ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-orange?style=for-the-badge)
 ![KNN](https://img.shields.io/badge/KNN-green?style=for-the-badge)
@@ -81,8 +75,7 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 ---
 
-## 🧠 Deep Learning
-
+![ Deep Learning](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras)
 ![ANN](https://img.shields.io/badge/ANN-blue?style=for-the-badge)
@@ -91,9 +84,8 @@ Designing intelligent, scalable AI systems from data to deployment.
 ![LSTM](https://img.shields.io/badge/LSTM-darkpurple?style=for-the-badge)
 
 ---
-
-## 🤖 Generative AI
-
+ 
+![ Generative AI](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-black?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-blue?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
@@ -101,8 +93,8 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 ---
 
-## ⚙️ MLOps
 
+![MLOps](https://img.shields.io/badge/CI%2FCD-darkblue?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-darkblue?style=for-the-badge)
@@ -110,7 +102,6 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 ---
 
-## 📊 Data Science
 
 ![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
