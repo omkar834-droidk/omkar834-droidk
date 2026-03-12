@@ -4,7 +4,7 @@
 
 </p>
 
-<h1 align="center">Hi 👋 I'm Omkar Salunke</h1>
+
 
 <p align="center">
 
