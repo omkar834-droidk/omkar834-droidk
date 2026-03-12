@@ -16,6 +16,24 @@
 Designing intelligent, scalable AI systems from data to deployment.
 
 </p>
+---
+
+<p align="center">
+
+<a href="https://github.com/omkar834-droidk">
+<img src="https://img.shields.io/badge/Projects-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/omkar-salunke-712696351">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:salunkeomkar834@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
 
 ---
 
@@ -114,6 +132,15 @@ Designing intelligent, scalable AI systems from data to deployment.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar834-droidk&layout=compact&theme=tokyonight" height="180"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar834-droidk&theme=tokyonight" height="180"/>
+
+</p>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=omkar834-droidk&show_icons=true&theme=tokyonight" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar834-droidk&layout=compact&theme=tokyonight" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar834-droidk&theme=tokyonight" height="160"/>
 
 </p>
 
