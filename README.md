@@ -141,12 +141,25 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 # 🌐 Connect With Me
 
-📧 **Email:** salunkeomkar834@gmail.com  
+<p align="center">
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/omkar-salunke-712696351
+<a href="mailto:salunkeomkar834@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-📍 **Location:** Pune, India
+<a href="https://www.linkedin.com/in/omkar-salunke-712696351">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/omiiee_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+📍 Pune, India
+</p>
 
 ---
 
