@@ -1,55 +1,104 @@
-🚀 Omkar Salunke
-AI Systems Builder | Data Science | GenAI | Agentic AI | MLOps
+<h1 align="center">Hi 👋, I'm Omkar Salunke</h1>
+<h3 align="center">AI Systems Builder | Machine Learning | Generative AI | MLOps</h3>
 
-    Designing intelligent, scalable AI systems from data to deployment.
+<p align="center">
+Designing intelligent, scalable AI systems from data to deployment.
+</p>
 
-🧠 About Me
+---
 
-    🎓 B.Sc. Computer Science
+# 🚀 About Me
 
-    🔬 Data Science & Machine Learning Enthusiast
+🎓 B.Sc Computer Science Student  
 
-    🤖 Exploring Generative AI & Agentic AI Systems
+🤖 Data Science & Machine Learning Enthusiast  
 
-    ⚙️ Focused on Production-Ready ML Workflows & MLOps
+🧠 Exploring Generative AI & Agentic AI Systems  
 
-    📊 Turning Data into Intelligent Decision Systems
+⚙️ Focused on Production-Ready ML Workflows & MLOps  
 
-**AI should not just predict — it should reason, automate, and scale .**
+📊 Turning data into intelligent decision systems  
 
-🛠 Core Expertise
+---
 
-    🔹 Data Science
-    🔹 Machine Learning
-    🔹 Generative AI
-    🔹 Agentic AI Workflows
-    🔹 MLOps & Model Deployment
-    🔹 End-to-End ML Pipelines
-    🔹 Feature Engineering & Optimization
+# 🧠 Core Expertise
 
-🚀 Currently Building
+🔹 Data Science  
+🔹 Machine Learning  
+🔹 Generative AI  
+🔹 Agentic AI Workflows  
+🔹 MLOps & Model Deployment  
 
-    ✔ Production-Grade ML Applications
-    ✔ Scalable AI Pipelines
-    ✔ Intelligent Automation Systems
-    ✔ Real-World AI Deployment Projects
+---
 
-📈 Vision
+# ⚙️ Tech Stack
 
-    Build Scalable AI Architectures
+### Languages
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
 
-    Engineer Autonomous AI Systems
+### Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge&logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/XGBoost-darkgreen?style=for-the-badge)
 
-    Deliver Impactful AI-Driven Solutions
+### Data Science
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 
-    Continuously Improve & Optimize
+### Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
-📫 Let’s Connect
+---
 
-    💼 Open to Internships & Collaboration
-    📬 Open to AI & System Design Discussions
+# 🚀 Featured Projects
 
-⚡ Engineering Philosophy
+### 🤖 Netflix Recommendation System
+Machine Learning project using NLP and cosine similarity to recommend movies.
 
-    Build. Optimize. Deploy. Repeat.
-    Intelligence is engineered — not accidental.
+### 📦 Smart Delivery Prediction
+Random Forest model predicting delivery time based on logistics features.
+
+### 🚦 Delhi Traffic Prediction
+Machine Learning model using XGBoost to predict traffic patterns.
+
+### 📊 Exam Score Prediction App
+ML model predicting student scores based on study factors.
+
+### 🫀 Heart Disease Prediction
+ML classification model predicting heart disease risk using health data.
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkar834-droidk&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkar834-droidk&layout=compact&theme=tokyonight)
+
+---
+
+# 📈 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omkar834-droidk&theme=tokyo-night)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkar834-droidk&theme=tokyonight)
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email: salunkeomkar834@gmail.com  
+
+💼 LinkedIn: ADD-YOUR-LINKEDIN-HERE  
+
+📍 Pune, India
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
