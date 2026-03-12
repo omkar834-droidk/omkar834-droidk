@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Omkar Salunke</h1>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Omkar%20Salunke&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+</p>
+
+<h1 align="center">Hi 👋 I'm Omkar Salunke</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Systems+Builder;Machine+Learning+Engineer;Generative+AI+Developer;MLOps+Engineer;Data+Science+Enthusiast"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=Generative+AI+Developer;Machine+Learning+Engineer;MLOps+Engineer;Data+Scientist;AI+Systems+Builder"/>
+
 </p>
 
 <p align="center">
