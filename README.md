@@ -103,21 +103,37 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkar834-droidk&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkar834-droidk&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=omkar834-droidk&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar834-droidk&layout=compact&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar834-droidk&theme=tokyonight" height="180"/>
+
+</p>
 
 ---
 
 # 📈 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omkar834-droidk&theme=tokyo-night)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar834-droidk&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🐍 Contribution Snake
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkar834-droidk&theme=tokyonight)
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
 
 ---
 
