@@ -1,6 +1,6 @@
 <p align="center">
-<img src="ai_banner.png" width="100%" />
-</p>
+<img src="Gemini_Generated_Image_9t4vel9t4vel9t4v.png" width="100%">
+</p>>
 
 
 
