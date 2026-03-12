@@ -124,7 +124,7 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar834-droidk&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar834-droidk&theme=tokyo-night&area=true&hide_border=true"/>
 
 </p>
 
