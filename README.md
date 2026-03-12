@@ -184,16 +184,6 @@ Designing intelligent, scalable AI systems from data to deployment.
 </p>
 
 
-----
-# 🎥 Project Demo & Code
-
-| Project | Demo | Code |
-|------|------|------|
-| Netflix Recommendation System | Coming Soon | [Repo](https://github.com/omkar834-droidk/Netflix-Recommendation-System) |
-| Smart Delivery Prediction | Coming Soon | [Repo](https://github.com/omkar834-droidk/Smart-Delivery-Prediction) |
-| Delhi Traffic Prediction | Coming Soon | [Repo](https://github.com/omkar834-droidk/Delhi-Traffic) |
-| Exam Score Prediction | Coming Soon | [Repo](https://github.com/omkar834-droidk/Exam-Score-Prediction-App) |
-
 
 
 ----
