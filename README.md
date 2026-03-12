@@ -27,11 +27,10 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 💡 **Goal:** Build scalable AI systems that solve real-world problems
 
-</td>
 
-<td width="40%">
 
-</td>
+
+
 </tr>
 </table>
 
