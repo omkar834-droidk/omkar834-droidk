@@ -185,6 +185,26 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 
 ---
+# 🚀 AI Projects Portfolio
 
+<p align="center">
+
+<a href="https://github.com/omkar834-droidk/Netflix-Recommendation-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=omkar834-droidk&repo=Netflix-Recommendation-System&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/omkar834-droidk/Smart-Delivery-Prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=omkar834-droidk&repo=Smart-Delivery-Prediction&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/omkar834-droidk/Delhi-Traffic">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=omkar834-droidk&repo=Delhi-Traffic&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/omkar834-droidk/Exam-Score-Prediction-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=omkar834-droidk&repo=Exam-Score-Prediction-App&theme=tokyonight"/>
+</a>
+
+</p>
 
 
