@@ -32,83 +32,6 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎬 Netflix Recommendation System
-Content-based movie recommendation engine using **NLP, TF-IDF and Cosine Similarity**.
-
-🔗 Repository  
-https://github.com/omkar834-droidk/Netflix-Recommendation-System
-
-⚙️ Tech  
-Python • NLP • Scikit-learn
-
-</td>
-
-<td width="50%">
-
-### 📦 Smart Delivery Prediction
-Random Forest ML model predicting **delivery time using logistics features**.
-
-🔗 Repository  
-https://github.com/omkar834-droidk/Smart-Delivery-Prediction
-
-⚙️ Tech  
-Python • Random Forest • Pandas
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🚦 Delhi Traffic Prediction
-Urban traffic forecasting model using **XGBoost and Scikit-learn**.
-
-🔗 Repository  
-https://github.com/omkar834-droidk/Delhi-Traffic
-
-⚙️ Tech  
-Python • XGBoost • Streamlit
-
-</td>
-
-<td width="50%">
-
-### 📊 Exam Score Prediction App
-Machine learning system predicting **student performance using study data**.
-
-🔗 Repository  
-https://github.com/omkar834-droidk/Exam-Score-Prediction-App
-
-⚙️ Tech  
-Python • ML • Streamlit
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ❤️ Heart Disease Prediction
-ML classification model predicting **heart disease risk using health data**.
-
-🔗 Repository  
-https://github.com/omkar834-droidk/Heartdisease_prediction
-
-⚙️ Tech  
-Python • Scikit-learn • Pandas
-
-</td>
-</tr>
-
-</table>
-
----
 
 # ⚙️ Tech Stack
 
@@ -210,3 +133,70 @@ https://www.linkedin.com/in/omkar-salunke-712696351
 ---
 
 ⭐ If you like my work, consider giving a star ⭐ to my repositories!
+
+
+
+---
+
+# 🚀 Featured Machine Learning Projects
+
+## 🎬 Netflix Recommendation System
+
+![NLP](https://img.shields.io/badge/NLP-blue?style=for-the-badge)
+![Recommendation](https://img.shields.io/badge/Recommender%20System-purple?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge)
+
+Content-based movie recommendation system that suggests movies using **TF-IDF vectorization and cosine similarity on movie descriptions**.
+
+🔗 Repository  
+https://github.com/omkar834-droidk/Netflix-Recommendation-System
+
+---
+
+## 📦 Smart Delivery Prediction
+
+![Random Forest](https://img.shields.io/badge/Random%20Forest-green?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+
+Predicts **food delivery time using distance, traffic, and preparation time features** with a Random Forest regression model.
+
+🔗 Repository  
+https://github.com/omkar834-droidk/Smart-Delivery-Prediction
+
+---
+
+## 🚦 Delhi Traffic Prediction
+
+![XGBoost](https://img.shields.io/badge/XGBoost-red?style=for-the-badge)
+![ML Model](https://img.shields.io/badge/Traffic%20Prediction-blue?style=for-the-badge)
+
+Machine learning model that predicts **urban traffic congestion using historical traffic patterns**.
+
+🔗 Repository  
+https://github.com/omkar834-droidk/Delhi-Traffic
+
+---
+
+## 📊 Exam Score Prediction App
+
+![Regression](https://img.shields.io/badge/Regression-yellow?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+
+Predicts **student exam scores using study hours, attendance, and academic data**.
+
+🔗 Repository  
+https://github.com/omkar834-droidk/Exam-Score-Prediction-App
+
+---
+
+## ❤️ Heart Disease Prediction
+
+![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-red?style=for-the-badge)
+![Classification](https://img.shields.io/badge/Classification-purple?style=for-the-badge)
+
+Predicts **heart disease risk using medical features like age, cholesterol, and blood pressure**.
+
+🔗 Repository  
+https://github.com/omkar834-droidk/Heartdisease_prediction
+
+---
