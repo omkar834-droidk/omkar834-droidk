@@ -152,35 +152,11 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 
 
----
+-
 
 
 
-# 🌐 Connect With Me
 
-<p align="center">
-
-<a href="mailto:salunkeomkar834@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/omkar-salunke-712696351">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/omiiee_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-📍 Pune, India
-</p>
-
----
-
-⭐ If you like my work, consider giving a star ⭐ to my repositories!
 
 
 
@@ -207,4 +183,43 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 </p>
 
+
+----
+# 🎥 Project Demo & Code
+
+| Project | Demo | Code |
+|------|------|------|
+| Netflix Recommendation System | Coming Soon | [Repo](https://github.com/omkar834-droidk/Netflix-Recommendation-System) |
+| Smart Delivery Prediction | Coming Soon | [Repo](https://github.com/omkar834-droidk/Smart-Delivery-Prediction) |
+| Delhi Traffic Prediction | Coming Soon | [Repo](https://github.com/omkar834-droidk/Delhi-Traffic) |
+| Exam Score Prediction | Coming Soon | [Repo](https://github.com/omkar834-droidk/Exam-Score-Prediction-App) |
+
+
+
+----
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:salunkeomkar834@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/omkar-salunke-712696351">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/omiiee_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+📍 Pune, India
+</p>
+
+---
+
+⭐ If you like my work, consider giving a star ⭐ to my repositories!
 
