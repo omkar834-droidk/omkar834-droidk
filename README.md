@@ -72,9 +72,6 @@ Designing intelligent, scalable AI systems from data to deployment.
 ![XGBoost](https://img.shields.io/badge/XGBoost-darkgreen?style=for-the-badge)
 ![Clustering](https://img.shields.io/badge/Clustering-blueviolet?style=for-the-badge)
 ![PCA](https://img.shields.io/badge/PCA-purple?style=for-the-badge)
-
----
-
 ![ Deep Learning](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras)
@@ -82,35 +79,19 @@ Designing intelligent, scalable AI systems from data to deployment.
 ![CNN](https://img.shields.io/badge/CNN-darkblue?style=for-the-badge)
 ![RNN](https://img.shields.io/badge/RNN-purple?style=for-the-badge)
 ![LSTM](https://img.shields.io/badge/LSTM-darkpurple?style=for-the-badge)
-
----
- 
 ![ Generative AI](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-black?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-blue?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-orange?style=for-the-badge)
-
----
-
-
 ![MLOps](https://img.shields.io/badge/CI%2FCD-darkblue?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-darkblue?style=for-the-badge)
 ![Model Deployment](https://img.shields.io/badge/Model%20Deployment-purple?style=for-the-badge)
-
----
-
-
 ![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
-
----
-
-## 🛠 Tools
-
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
