@@ -34,20 +34,79 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🎬 Netflix Recommendation System
-Content-based movie recommendation engine using **NLP, TF-IDF, and Cosine Similarity**.
+Content-based movie recommendation engine using **NLP, TF-IDF and Cosine Similarity**.
+
+🔗 Repository  
+https://github.com/omkar834-droidk/Netflix-Recommendation-System
+
+⚙️ Tech  
+Python • NLP • Scikit-learn
+
+</td>
+
+<td width="50%">
 
 ### 📦 Smart Delivery Prediction
 Random Forest ML model predicting **delivery time using logistics features**.
 
+🔗 Repository  
+https://github.com/omkar834-droidk/Smart-Delivery-Prediction
+
+⚙️ Tech  
+Python • Random Forest • Pandas
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### 🚦 Delhi Traffic Prediction
-Traffic forecasting model built using **XGBoost and Scikit-learn**.
+Urban traffic forecasting model using **XGBoost and Scikit-learn**.
+
+🔗 Repository  
+https://github.com/omkar834-droidk/Delhi-Traffic
+
+⚙️ Tech  
+Python • XGBoost • Streamlit
+
+</td>
+
+<td width="50%">
 
 ### 📊 Exam Score Prediction App
 Machine learning system predicting **student performance using study data**.
 
+🔗 Repository  
+https://github.com/omkar834-droidk/Exam-Score-Prediction-App
+
+⚙️ Tech  
+Python • ML • Streamlit
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### ❤️ Heart Disease Prediction
-Classification model predicting **heart disease risk using medical features**.
+ML classification model predicting **heart disease risk using health data**.
+
+🔗 Repository  
+https://github.com/omkar834-droidk/Heartdisease_prediction
+
+⚙️ Tech  
+Python • Scikit-learn • Pandas
+
+</td>
+</tr>
+
+</table>
 
 ---
 
