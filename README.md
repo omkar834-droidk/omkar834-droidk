@@ -125,6 +125,20 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 ---
 
+
+### Current Focus
+
+Currently focused on building real-world AI systems:
+
+• End-to-end Machine Learning pipelines  
+• Generative AI applications using LLMs  
+• MLOps and model deployment  
+• Scalable AI system design
+
+---
+
+
+
 # 📊 GitHub Stats
 
 <p align="center">
