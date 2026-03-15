@@ -201,12 +201,22 @@ it's about designing systems that make better decisions."</i>
 
 ---
 
----
 
 ## 🚀 Building the Future with AI
 
-<p align="center">
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Great+AI+systems+are+not+just+trained...;They+are+engineered."/>
+<div align="center">
 
-</p>
+### 💭 AI Mindset
+
+> **"I don't just train models.  
+> I design intelligent systems that turn data into decisions."**
+
+<br>
+
+**— Omkar Salunke**
+
+</div>
+
+---
