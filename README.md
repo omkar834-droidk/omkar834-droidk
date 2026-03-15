@@ -124,6 +124,13 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 ---
 
+# 💡 AI Philosophy
+
+"Artificial Intelligence is not just about building models —  
+it's about building systems that make better decisions."
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
