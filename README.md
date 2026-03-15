@@ -201,5 +201,17 @@ it's about designing systems that make better decisions."</i>
 
 ---
 
-⭐ If you like my work, consider giving a star ⭐ to my repositories!
+---
 
+## 🚀 Building the Future with AI
+
+<p align="center">
+
+<i>"The future will not be written by those who use AI,  
+but by those who build it."</i>
+
+</p>
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
