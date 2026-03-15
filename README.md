@@ -123,17 +123,7 @@ Designing intelligent, scalable AI systems from data to deployment.
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
 
 
----
 
-
-### Current Focus
-
-Currently focused on building real-world AI systems:
-
-• End-to-end Machine Learning pipelines  
-• Generative AI applications using LLMs  
-• MLOps and model deployment  
-• Scalable AI system design
 
 ---
 
