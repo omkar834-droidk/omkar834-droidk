@@ -122,20 +122,6 @@ Designing intelligent, scalable AI systems from data to deployment.
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
 
----
-
-## 💡 AI Philosophy
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI%20Philosophy-Intelligence%20is%20built%20from%20data%2C%20but%20impact%20comes%20from%20systems-0f2027?style=for-the-badge&logo=ai&logoColor=white"/>
-
-</p>
-
-<p align="center">
-<i>"Artificial Intelligence is not just about training models —  
-it's about designing systems that make better decisions."</i>
-</p>
 
 ---
 
@@ -202,13 +188,15 @@ it's about designing systems that make better decisions."</i>
 ---
 
 
+---
+
 ## 🚀 Building the Future with AI
 
----
+<br>
 
 <div align="center">
 
-### 💭 AI Mindset
+### 💡 Building Intelligence
 
 > **"I don't just train models.  
 > I design intelligent systems that turn data into decisions."**
@@ -218,5 +206,13 @@ it's about designing systems that make better decisions."</i>
 **— Omkar Salunke**
 
 </div>
+
+<br>
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories.
+</p>
+
+---
 
 ---
