@@ -124,10 +124,18 @@ Designing intelligent, scalable AI systems from data to deployment.
 
 ---
 
-# 💡 AI Philosophy
+## 💡 AI Philosophy
 
-"Artificial Intelligence is not just about building models —  
-it's about building systems that make better decisions."
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20Philosophy-Intelligence%20is%20built%20from%20data%2C%20but%20impact%20comes%20from%20systems-0f2027?style=for-the-badge&logo=ai&logoColor=white"/>
+
+</p>
+
+<p align="center">
+<i>"Artificial Intelligence is not just about training models —  
+it's about designing systems that make better decisions."</i>
+</p>
 
 ---
 
