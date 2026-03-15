@@ -185,7 +185,6 @@ Designing intelligent, scalable AI systems from data to deployment.
 📍 Pune, India
 </p>
 
----
 
 
 ---
