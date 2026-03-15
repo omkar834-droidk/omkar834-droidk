@@ -207,11 +207,6 @@ it's about designing systems that make better decisions."</i>
 
 <p align="center">
 
-<i>"The future will not be written by those who use AI,  
-but by those who build it."</i>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Great+AI+systems+are+not+just+trained...;They+are+engineered."/>
 
-</p>
-
-<p align="center">
-⭐ If you like my work, consider giving a star to my repositories!
 </p>
